@@ -11,6 +11,7 @@ python-development/
 ├── gui/           # GUI-based applications
 ├── automation/    # Automation scripts and utilities
 ├── practice/      # Coding exercises and programming concepts
+├── .gitignore      # To untrack files.
 └── REPO_DESCRIPTION.md
 ```
 
